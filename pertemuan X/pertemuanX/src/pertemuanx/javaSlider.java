@@ -32,7 +32,7 @@ public class javaSlider extends JFrame implements ChangeListener{
         
         setSize(FRAME_WIDTH,FRAME_HEIGHT);
         setTitle("Program contoh list");
-        setLocation(FRAME_X_ORIGIN,FRAME_Y_ORIGIN);
+        setLocation(500,200);
         
         contentPane = getContentPane();
         contentPane.setBackground(Color.WHITE);
