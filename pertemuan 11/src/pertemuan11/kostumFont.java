@@ -20,6 +20,7 @@ public class kostumFont extends JPanel{
         g.drawString("Serif 12 point bold", 20, 50);
         
         g.setFont(new Font("Monospaced",Font.ITALIC,24));
+        
         g.drawString("Monospaced 24 point italic",20,70);
     }
 }
